@@ -1,0 +1,23 @@
+cat,Latitude,Longitude,Monitor_Type,Networks,PQAO,Monitoring_Objective,Measurement_Scale,Local_Site_Name,Address,State_Name,County_Name,CBSA_Name,site
+Carbonyls,41.965193,-87.876265,OTHER,,Eastern Research Group,POPULATION EXPOSURE,,IEPA TRAILER,4743 MANNHEIM RD.,Illinois,Cook,"Chicago-Naperville-Elgin, IL-IN-WI",170313103
+Carbonyls,42.267231,-83.132086,SPM,,"Michigan Dept Of Environment, Great L",GENERAL/BACKGROUND,,River Rouge,315 GENESEE,Michigan,Wayne,"Detroit-Warren-Dearborn, MI",261630005
+Carbonyls,42.302786,-83.10653,SPM,,"Michigan Dept Of Environment, Great L",GENERAL/BACKGROUND,,Southwestern H.S.,150 WATERMAN (SWHS),Michigan,Wayne,"Detroit-Warren-Dearborn, MI",261630015
+Carbonyls,44.76323,-93.03255,SLAMS,,"Minnesota Pollution Control Agency, D",UNKNOWN,,Flint Hills Refinery 420,12821 PINE BEND TRAIL,Minnesota,Dakota,"Minneapolis-St. Paul-Bloomington, MN-W",270370020
+Carbonyls,44.77553,-93.06299,SLAMS,,"Minnesota Pollution Control Agency, D",UNKNOWN,,Flint Hills Refinery 423,2142 120TH STREET EAST,Minnesota,Dakota,"Minneapolis-St. Paul-Bloomington, MN-W",270370423
+Carbonyls,44.745662,-93.05541,SLAMS,,"Minnesota Pollution Control Agency, D",POPULATION EXPOSURE,NEIGHBORHOOD,Flint Hills Refinery 443,"14035 Blaine Ae. E., Rosemount, MN",Minnesota,Dakota,"Minneapolis-St. Paul-Bloomington, MN-W",270370443
+Carbonyls,44.73846,-93.23725,SLAMS,,"Minnesota Pollution Control Agency, D",UNKNOWN,,Apple Valley,225 GARDEN VIEW DRIVE,Minnesota,Dakota,"Minneapolis-St. Paul-Bloomington, MN-W",270370470
+Carbonyls,45.012102,-93.276699,SLAMS,,"Minnesota Pollution Control Agency, D",SOURCE ORIENTED,MIDDLE SCALE,Lowry Avenue,3104 Pacific Street,Minnesota,Hennepin,"Minneapolis-St. Paul-Bloomington, MN-W",270530909
+Carbonyls,44.87551,-93.25892,SLAMS,,"Minnesota Pollution Control Agency, D",POPULATION EXPOSURE,,Richfield Intermediate School,7020 12TH AVE S.,Minnesota,Hennepin,"Minneapolis-St. Paul-Bloomington, MN-W",270530961
+Carbonyls,44.965242,-93.254759,SLAMS,NEAR ROAD,"Minnesota Pollution Control Agency, D",OTHER,MIDDLE SCALE,Near Road I-35/I-94,1444 E 18th St,Minnesota,Hennepin,"Minneapolis-St. Paul-Bloomington, MN-W",270530962
+Carbonyls,44.95366,-93.25821,SLAMS,,"Minnesota Pollution Control Agency, D",POPULATION EXPOSURE,NEIGHBORHOOD,Andersen School,2727 10th Ave. S.,Minnesota,Hennepin,"Minneapolis-St. Paul-Bloomington, MN-W",270530963
+Carbonyls,44.97944,-93.26613,SLAMS,,"Minnesota Pollution Control Agency, D",OTHER,,City of Lakes Building,309 2nd Ave. S.,Minnesota,Hennepin,"Minneapolis-St. Paul-Bloomington, MN-W",270530966
+Carbonyls,45.03972,-93.29874,SLAMS,,"Minnesota Pollution Control Agency, D",SOURCE ORIENTED,,Humboldt Avenue,4646 North Humboldt,Minnesota,Hennepin,"Minneapolis-St. Paul-Bloomington, MN-W",270531007
+Carbonyls,45.013611,-93.272049,SLAMS,,"Minnesota Pollution Control Agency, D",SOURCE ORIENTED,NEIGHBORHOOD,Bottineau / Marshall Terrace,2522 Marshall St. NE,Minnesota,Hennepin,"Minneapolis-St. Paul-Bloomington, MN-W",270531909
+Carbonyls,44.94805,-93.34315,SLAMS,,"Minnesota Pollution Control Agency, D",POPULATION EXPOSURE,,St. Louis Park City Hall,5005 Minnetonka Blvd.,Minnesota,Hennepin,"Minneapolis-St. Paul-Bloomington, MN-W",270532006
+Carbonyls,44.95072,-93.09827,SLAMS,,"Minnesota Pollution Control Agency, D",GENERAL/BACKGROUND,,Ramsey Health Center,555 CEDAR STREET,Minnesota,Ramsey,"Minneapolis-St. Paul-Bloomington, MN-W",271230868
+Carbonyls,44.95939,-93.03587,SLAMS,,"Minnesota Pollution Control Agency, D",POPULATION EXPOSURE,NEIGHBORHOOD,Harding High School,1540 EAST 6TH STREET,Minnesota,Ramsey,"Minneapolis-St. Paul-Bloomington, MN-W",271230871
+Carbonyls,46.77107,-92.11732,SLAMS,,"Minnesota Pollution Control Agency, D",SOURCE ORIENTED,MIDDLE SCALE,Michigan Street,1532 W. Michigan St.,Minnesota,Saint Louis,"Duluth, MN-WI",271377549
+Carbonyls,44.84737,-92.9954,SLAMS,,"Minnesota Pollution Control Agency, D",SOURCE ORIENTED,URBAN SCALE,Saint Paul Park Refinery 436,649 FIFTH STREET,Minnesota,Washington,"Minneapolis-St. Paul-Bloomington, MN-W",271630436
+Carbonyls,44.85711,-93.00352,SLAMS,,"Minnesota Pollution Control Agency, D",SOURCE ORIENTED,NEIGHBORHOOD,Saint Paul Park Refinery 438,4th Ave & 2nd St,Minnesota,Washington,"Minneapolis-St. Paul-Bloomington, MN-W",271630438
+Carbonyls,45.02798,-92.77415,SLAMS,,"Minnesota Pollution Control Agency, D",SOURCE ORIENTED,,Point Road,22 POINT RD,Minnesota,Washington,"Minneapolis-St. Paul-Bloomington, MN-W",271630446
+Carbonyls,43.016667,-87.933333,SPM,,"Wisconsin Dept Of Natural Resources,",POPULATION EXPOSURE,NEIGHBORHOOD,MILWAUKEE - SIXTEENTH ST. HEALTH CENTER,"HEALTH CENTER, 1337 SO 16TH ST",Wisconsin,Milwaukee,"Milwaukee-Waukesha-West Allis, WI",550790010

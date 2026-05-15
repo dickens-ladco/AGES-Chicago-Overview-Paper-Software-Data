@@ -1,0 +1,39 @@
+cat,Latitude,Longitude,Monitor_Type,Networks,PQAO,Monitoring_Objective,Measurement_Scale,Local_Site_Name,Address,State_Name,County_Name,CBSA_Name,site
+VOCs,41.965193,-87.876265,OTHER,,Eastern Research Group,POPULATION EXPOSURE,,IEPA TRAILER,4743 MANNHEIM RD.,Illinois,Cook,"Chicago-Naperville-Elgin, IL-IN-WI",170313103
+VOCs,39.810833,-86.114444,SPM,,Indiana Depart Of Environ Management/,MAX PRECURSOR EMISSIONS IMPACT,MIDDLE SCALE,Indpls- Washington Park/  in parking lot nex,"3120 E. 30TH ST., WASHINGTON PARK",Indiana,Marion,"Indianapolis-Carmel-Anderson, IN",180970078
+VOCs,39.479822,-84.409617,INDUSTRIAL,,South West Ohio PQAO,SOURCE ORIENTED,NEIGHBORHOOD,Amanda Elem,1200 OXFORD STATE ROAD,Ohio,Butler,"Cincinnati, OH-KY-IN",390170019
+VOCs,39.472436,-84.394952,INDUSTRIAL,,South West Ohio PQAO,SOURCE ORIENTED,NEIGHBORHOOD,Yankee,3350 YANKEE ROAD,Ohio,Butler,"Cincinnati, OH-KY-IN",390170020
+VOCs,41.477011,-81.682383,SPM,,North East Ohio PQAO,POPULATION EXPOSURE,NEIGHBORHOOD,St Theodosius,2547 ST TIKHON,Ohio,Cuyahoga,"Cleveland-Elyria, OH",390350038
+VOCs,40.002707,-82.994424,SPM,,Central Ohio PQAO,POPULATION EXPOSURE,NEIGHBORHOOD,Fairgrounds,KORBEL AVE.,Ohio,Franklin,"Columbus, OH",390490034
+VOCs,40.36644,-80.61558,SPM,,Central Ohio PQAO,POPULATION EXPOSURE,NEIGHBORHOOD,Stuebenville,618 LOGAN ST.,Ohio,Jefferson,"Weirton-Steubenville, WV-OH",390810017
+VOCs,43.016667,-87.933333,SPM,,"Wisconsin Dept Of Natural Resources,",POPULATION EXPOSURE,NEIGHBORHOOD,MILWAUKEE - SIXTEENTH ST. HEALTH CENTER,"HEALTH CENTER, 1337 SO 16TH ST",Wisconsin,Milwaukee,"Milwaukee-Waukesha-West Allis, WI",550790010
+VOCs,39.131635,-84.707205,,,South West Ohio PQAO,POPULATION EXPOSURE,NEIGHBORHOOD,Kibby,7529 Gracely Dr.,Ohio,Hamilton,"Cincinnati, OH-KY-IN",390610047
+VOCs,40.332933,-80.933401,,,Central Ohio PQAO,SOURCE ORIENTED,MICRO,Hopedale,46700 Jewett Hopedale Rd.,Ohio,Harrison,,390670005
+VOCs,38.276557,-85.763791,OTHER,,,POPULATION EXPOSURE,NEIGHBORHOOD,Clarksville,,Indiana,Clark,"Louisville-Jefferson County, KY-IN",180190009
+VOCs,41.636111,-87.440833,OTHER,,,POPULATION EXPOSURE,NEIGHBORHOOD,East Chicago - Franklin Sch.,,Indiana,Lake,"Chicago-Naperville-Elgin, IL-IN-WI",180890006
+VOCs,41.606563,-87.305015,OTHER,,,POPULATION EXPOSURE,MIDDLE,Gary - IITRI,,Indiana,Lake,"Chicago-Naperville-Elgin, IL-IN-WI",180890022
+VOCs,41.653501,-87.435561,OTHER,,,POPULATION EXPOSURE,NEIGHBORHOOD,East Chicago - Marina,,Indiana,Lake,"Chicago-Naperville-Elgin, IL-IN-WI",180890034
+VOCs,41.681393,-87.490233,OTHER,,,POPULATION EXPOSURE,NEIGHBORHOOD,Whiting - Center St.,,Indiana,Lake,"Chicago-Naperville-Elgin, IL-IN-WI",180890035
+VOCs,41.639444,-87.493611,OTHER,,,POPULATION EXPOSURE,NEIGHBORHOOD,Hammond - 141st St.,,Indiana,Lake,"Chicago-Naperville-Elgin, IL-IN-WI",180892008
+VOCs,39.787933,-86.13088,SLAMS (NEAR ROAD),,,SOURCE ORIENTED,MIDDLE,Indianapolis I-70E,,Indiana,Marion,"Indianapolis-Carmel-Anderson, IN",180970087
+VOCs,41.6175,-87.199167,OTHER,,,POPULATION EXPOSURE,NEIGHBORHOOD,Odgen Dunes,,Indiana,Porter,"Chicago-Naperville-Elgin, IL-IN-WI",181270024
+VOCs,37.974444,-87.532222,OTHER,,,POPULATION EXPOSURE,NEIGHBORHOOD,Evansville - U of E,,Indiana,Vanderburgh,"Evansville, IN-KY",181630016
+VOCs,42.302778,-83.106667,OTHER,,,POPULATION EXPOSURE,NEIGHBORHOOD,Detroit - SWHS,,Michigan,Wayne,"Detroit-Warren-Dearborn, MI",261630015
+VOCs,44.76323,-93.03255,SLAMS,,"Minnesota Pollution Control Agency, D",UNKNOWN,,Flint Hills Refinery 420,12821 PINE BEND TRAIL,Minnesota,Dakota,"Minneapolis-St. Paul-Bloomington, MN-W",270370020
+VOCs,44.77553,-93.06299,SLAMS,,"Minnesota Pollution Control Agency, D",UNKNOWN,,Flint Hills Refinery 423,2142 120TH STREET EAST,Minnesota,Dakota,"Minneapolis-St. Paul-Bloomington, MN-W",270370423
+VOCs,44.745662,-93.05541,SLAMS,,"Minnesota Pollution Control Agency, D",POPULATION EXPOSURE,NEIGHBORHOOD,Flint Hills Refinery 443,"14035 Blaine Ae. E., Rosemount, MN",Minnesota,Dakota,"Minneapolis-St. Paul-Bloomington, MN-W",270370443
+VOCs,44.73846,-93.23725,SLAMS,,"Minnesota Pollution Control Agency, D",UNKNOWN,,Apple Valley,225 GARDEN VIEW DRIVE,Minnesota,Dakota,"Minneapolis-St. Paul-Bloomington, MN-W",270370470
+VOCs,45.012102,-93.276699,SLAMS,,"Minnesota Pollution Control Agency, D",SOURCE ORIENTED,MIDDLE SCALE,Lowry Avenue,3104 Pacific Street,Minnesota,Hennepin,"Minneapolis-St. Paul-Bloomington, MN-W",270530909
+VOCs,44.87551,-93.25892,SLAMS,,"Minnesota Pollution Control Agency, D",POPULATION EXPOSURE,,Richfield Intermediate School,7020 12TH AVE S.,Minnesota,Hennepin,"Minneapolis-St. Paul-Bloomington, MN-W",270530961
+VOCs,44.965242,-93.254759,SLAMS,NEAR ROAD,"Minnesota Pollution Control Agency, D",OTHER,MIDDLE SCALE,Near Road I-35/I-94,1444 E 18th St,Minnesota,Hennepin,"Minneapolis-St. Paul-Bloomington, MN-W",270530962
+VOCs,44.95366,-93.25821,SLAMS,,"Minnesota Pollution Control Agency, D",POPULATION EXPOSURE,NEIGHBORHOOD,Andersen School,2727 10th Ave. S.,Minnesota,Hennepin,"Minneapolis-St. Paul-Bloomington, MN-W",270530963
+VOCs,44.97944,-93.26613,SLAMS,,"Minnesota Pollution Control Agency, D",OTHER,,City of Lakes Building,309 2nd Ave. S.,Minnesota,Hennepin,"Minneapolis-St. Paul-Bloomington, MN-W",270530966
+VOCs,45.03972,-93.29874,SLAMS,,"Minnesota Pollution Control Agency, D",SOURCE ORIENTED,,Humboldt Avenue,4646 North Humboldt,Minnesota,Hennepin,"Minneapolis-St. Paul-Bloomington, MN-W",270531007
+VOCs,45.013611,-93.272049,SLAMS,,"Minnesota Pollution Control Agency, D",SOURCE ORIENTED,NEIGHBORHOOD,Bottineau / Marshall Terrace,2522 Marshall St. NE,Minnesota,Hennepin,"Minneapolis-St. Paul-Bloomington, MN-W",270531909
+VOCs,44.94805,-93.34315,SLAMS,,"Minnesota Pollution Control Agency, D",POPULATION EXPOSURE,,St. Louis Park City Hall,5005 Minnetonka Blvd.,Minnesota,Hennepin,"Minneapolis-St. Paul-Bloomington, MN-W",270532006
+VOCs,44.95072,-93.09827,SLAMS,,"Minnesota Pollution Control Agency, D",GENERAL/BACKGROUND,,Ramsey Health Center,555 CEDAR STREET,Minnesota,Ramsey,"Minneapolis-St. Paul-Bloomington, MN-W",271230868
+VOCs,44.95939,-93.03587,SLAMS,,"Minnesota Pollution Control Agency, D",POPULATION EXPOSURE,NEIGHBORHOOD,Harding High School,1540 EAST 6TH STREET,Minnesota,Ramsey,"Minneapolis-St. Paul-Bloomington, MN-W",271230871
+VOCs,46.77107,-92.11732,SLAMS,,"Minnesota Pollution Control Agency, D",SOURCE ORIENTED,MIDDLE SCALE,Michigan Street,1532 W. Michigan St.,Minnesota,Saint Louis,"Duluth, MN-WI",271377549
+VOCs,44.84737,-92.9954,SLAMS,,"Minnesota Pollution Control Agency, D",SOURCE ORIENTED,URBAN SCALE,Saint Paul Park Refinery 436,649 FIFTH STREET,Minnesota,Washington,"Minneapolis-St. Paul-Bloomington, MN-W",271630436
+VOCs,44.85711,-93.00352,SLAMS,,"Minnesota Pollution Control Agency, D",SOURCE ORIENTED,NEIGHBORHOOD,Saint Paul Park Refinery 438,4th Ave & 2nd St,Minnesota,Washington,"Minneapolis-St. Paul-Bloomington, MN-W",271630438
+VOCs,45.02798,-92.77415,SLAMS,,"Minnesota Pollution Control Agency, D",SOURCE ORIENTED,,Point Road,22 POINT RD,Minnesota,Washington,"Minneapolis-St. Paul-Bloomington, MN-W",271630446
